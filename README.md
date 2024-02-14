@@ -49,3 +49,5 @@ This runs the executable file created by the compiler (here, testVaryCaFSrFNoPat
 # testBash.sh
 
 Same as above, except without the supercomputing cluster stuff.  Use this to run on your home computer (warning: will take a good bit of time and use all available CPU since I've enabled parallelization).  I'd only use this for very basic testing, and perhaps even go down to like 1 particle
+
+
